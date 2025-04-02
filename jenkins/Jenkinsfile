@@ -2,7 +2,7 @@ pipeline
 {
 
 agent {
-  label 'devvm'
+  label 'DevServer'
 }
 
 tools {
@@ -31,3 +31,5 @@ stages{
 }
 
 }
+
+
